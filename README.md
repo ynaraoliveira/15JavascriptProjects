@@ -5,7 +5,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
 
-![](./demo/day1.gif)
+![](./demo/project01.gif)
 
 #### Skills:
 - Math.floor
