@@ -12,3 +12,15 @@ This project generates random color based on two options: simple (with a set of 
 - Math.random
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/01-color-random)
+
+## Project 02 - Counter
+With the buttons you can increase, decrease and reset the count. If the number is greater than 0 then the number is shown in green color. If it's less than zero then the color is red.
+
+![](./demo/project02.gif)
+
+#### Skills:
+- addEventListener
+- forEach
+- currentTarget
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/02-counter)
