@@ -24,3 +24,14 @@ With the buttons you can increase, decrease and reset the count. If the number i
 - currentTarget
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/02-counter)
+
+## Project 03 - Review
+With the buttons you can access the next and previous review in the array switching the information name, job, image and text attached to an id for each review in the array.
+
+![](./demo/project03.gif)
+
+#### Skills:
+- array
+- DOMContentLoaded
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/03-review)
