@@ -47,4 +47,4 @@ This project creates a drop down menu for smaller screen sizes.
 - add / remove classes
 - toggle
 
-##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/04-hamburguer-menu)
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/04-hamburger-menu)
