@@ -35,3 +35,16 @@ With the buttons you can access the next and previous review in the array switch
 - DOMContentLoaded
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/03-review)
+
+## Project 04 - Hamburguer Menu
+This project creates a drop down menu for smaller screen sizes. 
+
+![](./demo/project04.gif)
+
+#### Skills:
+- classList
+- contains
+- add / remove classes
+- toggle
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/04-hamburguer-menu)
