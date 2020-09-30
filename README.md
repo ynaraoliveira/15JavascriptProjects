@@ -2,6 +2,13 @@
 
 This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXvlpOkf4) JavaScript course - Build 15 javaScript Projects with Vanilla JS.
 
+##### The projects:
+01 - Color Random
+02 - Counter
+03 - Review
+04 - Hamburger Menu
+05 - Sidebar
+
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
 
@@ -48,3 +55,14 @@ This project creates a drop down menu for smaller screen sizes.
 - toggle
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/04-hamburger-menu)
+
+## Project 05 - Sidebar
+This project creates a sidebar menu using the toggle method. 
+
+![](./demo/project05.gif)
+
+#### Skills:
+- classList
+- toggle
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/05-sidebar)
