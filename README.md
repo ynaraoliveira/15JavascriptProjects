@@ -3,11 +3,11 @@
 This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXvlpOkf4) JavaScript course - Build 15 javaScript Projects with Vanilla JS.
 
 ##### The projects:
-01 - Color Random
-02 - Counter
-03 - Review
-04 - Hamburger Menu
-05 - Sidebar
+01 - Color Random<br/>
+02 - Counter<br/>
+03 - Review<br/>
+04 - Hamburger Menu<br/>
+05 - Sidebar<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
