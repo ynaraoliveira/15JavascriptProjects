@@ -69,7 +69,7 @@ This project creates a sidebar menu using the toggle method.
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/05-sidebar)
 
 ## Project 06 - Card Flip
-This prohject creates a card flip effect so a hidden content can be visible once the button is clicked. 
+This project creates a card flip effect so a hidden content can be visible once the button is clicked. 
 
 ![](./demo/project06.gif)
 
