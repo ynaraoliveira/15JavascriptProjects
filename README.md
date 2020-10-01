@@ -8,6 +8,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 03 - Review<br/>
 04 - Hamburger Menu<br/>
 05 - Sidebar<br/>
+06 - Card Flip<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -66,3 +67,14 @@ This project creates a sidebar menu using the toggle method.
 - toggle
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/05-sidebar)
+
+## Project 06 - Card Flip
+This prohject creates a card flip effect so a hidden content can be visible once the button is clicked. 
+
+![](./demo/project06.gif)
+
+#### Skills:
+- classList
+- add / remove class
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/06-modal)
