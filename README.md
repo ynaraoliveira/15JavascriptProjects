@@ -9,6 +9,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 04 - Hamburger Menu<br/>
 05 - Sidebar<br/>
 06 - Card Flip<br/>
+07 - Questions<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -78,3 +79,15 @@ This project creates a card flip effect so a hidden content can be visible once 
 - add / remove class
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/06-modal)
+
+## Project 07 - Questions
+In this project the user can see the answer to the questions when clicking the button. Only one answer is shown at a time.
+
+![](./demo/project07.gif)
+
+#### Skills:
+- querySelectorAll
+- forEach
+- parentElement
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/07-questions)
