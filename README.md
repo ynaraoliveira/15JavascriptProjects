@@ -10,6 +10,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 05 - Sidebar<br/>
 06 - Card Flip<br/>
 07 - Questions<br/>
+08 - Menu<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -91,3 +92,16 @@ In this project the user can see the answer to the questions when clicking the b
 - parentElement
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/07-questions)
+
+## Project 08 - Menu
+With this menu project the user can see the items available for each menu category. The coding was made dinamically so in case a new item with a new category is added a button will automatically appear with the name of the category. 
+
+![](./demo/project08.gif)
+
+#### Skills:
+- map
+- reduce
+- push
+- filter
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/08-menu)
