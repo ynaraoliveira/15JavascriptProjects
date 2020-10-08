@@ -11,6 +11,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 06 - Card Flip<br/>
 07 - Questions<br/>
 08 - Menu<br/>
+09 - Video<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -105,3 +106,14 @@ With this menu project the user can see the items available for each menu catego
 - filter
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/08-menu)
+
+## Project 09 - Video
+There's an animated preloader on screen while the video is loading and the user can control whether play or pause the video on the main page.
+
+![](./demo/project09.gif)
+
+#### Skills:
+- pause()
+- play()
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/09-video)
