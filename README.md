@@ -12,6 +12,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 07 - Questions<br/>
 08 - Menu<br/>
 09 - Video<br/>
+10 - Scroll<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -117,3 +118,15 @@ There's an animated preloader on screen while the video is loading and the user 
 - play()
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/09-video)
+
+## Project 10 - Scroll
+In this page the copyright date is set to be updated autocatically; the navbar heigth on smaller screen is set to be dinamic in case more links are added and there is a smooth scroll effect using offsetTop to go exactly on the top of the page.  
+
+![](./demo/project10.gif)
+
+#### Skills:
+- getBoudingClientRect()
+- pageYOffset
+- offsetTop
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/10-scroll)
