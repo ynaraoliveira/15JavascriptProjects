@@ -13,6 +13,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 08 - Menu<br/>
 09 - Video<br/>
 10 - Scroll<br/>
+11 - Tabs<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -130,3 +131,15 @@ In this page the copyright date is set to be updated autocatically; the navbar h
 - offsetTop
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/10-scroll)
+
+## Project 11 - Tabs
+The user can see different content when clicking on the tabs.
+
+![](./demo/project11.gif)
+
+#### Skills:
+- forEach()
+- target
+- dataset
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/11-tabs)
