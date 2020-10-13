@@ -14,6 +14,7 @@ This project is part of the [freecodecamp](https://www.youtube.com/watch?v=3PHXv
 09 - Video<br/>
 10 - Scroll<br/>
 11 - Tabs<br/>
+12 - Countdown<br/>
 
 ## Project 01 - Color Random
 This project generates random color based on two options: simple (with a set of seven basic colors) and hex (which can be any hex color).
@@ -143,3 +144,15 @@ The user can see different content when clicking on the tabs.
 - dataset
 
 ##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/11-tabs)
+
+## Project 12 - Countdown
+The countdown is set to start 10 days from the current day, displaying the remaining days, hours, minutes and seconds, which is updated automatically. In case the deadline is expired a message will show up instead of the countdown.
+
+![](./demo/project12.gif)
+
+#### Skills:
+- new Date(), getFullYear(), getMonth(), getDate(), getDay(), getHours(), getMinutes() 
+- clearInterval()
+- setInterval()
+
+##### [See the Code](https://github.com/ynaraoliveira/15JavascriptProjects/tree/master/projects/12-countdown)
